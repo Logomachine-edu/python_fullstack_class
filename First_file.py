@@ -12,5 +12,12 @@ print('Hello, dogs 2!')
 print('Hello, dogs 3!')
 print('Hello, dogs 4!')
 print('Hello, dogs 5!')
+<<<<<<< HEAD
 # => Hello, World!
 >>>>>>> developer 2 startged
+=======
+
+
+# => этот код работает исправно!
+# Автор - разработчик 2
+>>>>>>> developer 2 finished

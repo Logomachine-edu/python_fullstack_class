@@ -1,2 +1,2 @@
 #Второй код на питон
-print('Hello world!')
+print('Hello dogs!')

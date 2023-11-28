@@ -3,4 +3,4 @@ baks = float(input("Введите актуальный курс доллара:
 #Запрашиваем цену товара в долларах
 price = float(input("Введите цену товара:"))
 #Считаем и выводим
-print(price*baks)
+print(price * baks)

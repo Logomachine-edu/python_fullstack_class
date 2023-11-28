@@ -1,6 +1,8 @@
 #Запрашиваем вводное слово
 logo = str(input("Введите название компании:"))
-#Считаем количество символов
+#Считаем количество символов и разделяем
 a = len(logo)
+first_half = logo[int(a / 2):] 
+second_half = logo[:int(a / 2)]
 #Выводим свапнутое название
-print(logo[int(a/2):]+logo[:int(a/2)])
+print(first_half + second_half)

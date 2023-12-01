@@ -6,7 +6,7 @@ def analyze_ad_efficiency (data):
         result = "Недооцененная"
     elif 0.01 <= data[0]/data[1] <= 0.05:
         result = "Низкая"
-    elif 0.05 < data[0]/data[1] <= 0.1 and data[2] > data[1]:
+    elif 0.05 < data[0]/data[1] <= 0.1 and data[2] > data[0]:
         result = "Средняя"
     elif 0.1 < data[0]/data[1]:
         result = "Высокая"

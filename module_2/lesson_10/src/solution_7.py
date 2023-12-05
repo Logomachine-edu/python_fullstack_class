@@ -1,25 +1,14 @@
-prices = input('Введите список цен:').split(",")
+prices = [1000,2000,3000,4000]
 prices_numbers = [int(x) for x in prices]
 
 
-def calculate_discount(data, i = 0):
-    prices_discoint = []
-    if len(data) == 0 :
-        return None 
-    elif len(data) == 1:
-        return data
+def calculate_discount(data):
+    if len(data) == 1:
+        return [data[0]]
     else:
-        prices_discoint = calculate_discount(data[1:])
-        if  i == 0:
-            prices_discoint.append(data[i])
-            i += 1
-            return prices_discoint
-        else:
-            prices_discoint.append(data[i] - prices_discoint[i-1] * 0.1)
-            i += 1
-            return prices_discoint
-
+        last = int(data[-1] - data[-2] * 0.1)
+        return calculate_discount(data[:-1]) + [last]
        
 
 
-print("Итоговый список:" , calculate_discount(prices_numbers))
+print("Итоговый список:" , calculate_discount(prices))

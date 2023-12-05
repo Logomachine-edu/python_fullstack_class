@@ -6,7 +6,8 @@ def sum_sales_with_for (lst):
     sum = 0
     for i in lst:
         sum += i
-        print(i , end="+")
+        
+    print(*lst , sep="+" , end="=")
     print(sum)
 
 

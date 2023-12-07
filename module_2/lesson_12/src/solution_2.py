@@ -13,7 +13,7 @@ def package_order(dct):
     return f"Упакован заказ {dct['id']}"
 
 
-def send_order(func: Callable[[int], int], func_2: Callable[[int], int], dct: dict):
+def send_order(func: Callable[[dict], bool], func_2: Callable[[dict], str], dct: dict):
     if func(dct) == True:
         return f"Отправка: {func_2(dct)}"
     else:

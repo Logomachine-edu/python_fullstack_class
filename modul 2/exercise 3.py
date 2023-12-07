@@ -1,3 +1,3 @@
 stars = '*'
-for i in range(0,6):
+for i in range(1,7):
     print(stars * i)

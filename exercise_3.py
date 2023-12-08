@@ -1,3 +1,5 @@
-stars = '*'
+star = '*'
 for i in range(1, 6):
-    print(stars * i)
+    print(star * i)
+# remove 7 line
+

@@ -3,8 +3,8 @@ user_2 = ("Витя" , "nocorrectpassword")
 
 
 def access_client_data(func) :
-    def wrapper(some_argument):
-        func()
+    def wrapper(*args, **kwargs):
+        func(*args, **kwargs)
     return wrapper
 
 @access_client_data

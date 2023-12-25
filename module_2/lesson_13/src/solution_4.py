@@ -3,8 +3,8 @@ user_2 = ("Визитка" , 10)
 
 
 def estimate_time(func) :
-    def wrapper(some_argument):
-        func()
+    def wrapper(*args, **kwargs):
+        func(*args, **kwargs)
     return wrapper
 
 @estimate_time

@@ -1,8 +1,11 @@
-
+from typing import Iterator
 a = [99, 150, 200, 349, 501]
-b = list(filter(lambda x: round(x/100), a))
 
 
+def gen(val) -> Iterator[int]:
+    res = []
+    for x in val:
+       res.append(round(x/100) * 100)
+    print(res)
 
-print(b)
-
+gen(a)

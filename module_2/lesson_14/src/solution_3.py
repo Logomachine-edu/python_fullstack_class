@@ -1,11 +1,8 @@
 from typing import Iterator
-a = [99, 150, 200, 349, 501] 
 
-def round100(n):
-    res = []
-    for i in n:
-        res.append(round(i/100)*100)
-    return print(res)
+a = ["Стр 1","Стр 2","Стр 3"]
 
+def gen(some_list) -> Iterator[int]:
+    return print((i * i for i in some_list))
 
-round100(a)
+gen(a)

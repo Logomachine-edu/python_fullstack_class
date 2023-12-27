@@ -1,5 +1,3 @@
-from functools import wraps
-
 zakaz = ("логотип" , "малый бизнес")
 cashe = ()
 
@@ -9,12 +7,12 @@ def estimate_time(func) :
     return wrapper
 
 @estimate_time
-def access(val):
+def access(*args):
     global cashe
-    if val == cashe:
+    if args == cashe:
         return print(f"Вернули из кэша: Цена")
     else:
-        cashe = val
+        cashe = args
         return print(f"Посчитали: Цена")
     
     

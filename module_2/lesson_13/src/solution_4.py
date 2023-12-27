@@ -8,11 +8,11 @@ def estimate_time(func) :
     return wrapper
 
 @estimate_time
-def access(dict):
-    if type(dict[1]) == int:
+def access(*args):
+    if type(args[1]) == int:
         return print(f"Estimated time calculated succsessfully!")
     else:
         return print(f"Второй аргумент - не число")
     
-access(user_1)
-access(user_2)
+access(*user_1)
+access(*user_2)

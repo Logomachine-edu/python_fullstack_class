@@ -1,3 +1,8 @@
-products: list[str] = ["Чай", "Мед", "Сахар"]
-products[0], products[2] = products[2], products[0]
-print("На полке:", ", ".join(products))
+def swapping(products, index_1, index_2):
+    index_1 -= 1
+    index_2 -= 1
+    products[index_1], products[index_2] = products[index_2], products[index_1]
+    print("На полке:", ", ".join(products))
+
+
+swapping(["Чай", "Мед", "Сахар"], 1, 3)

@@ -1,8 +1,10 @@
-def reverse_string(text, text2):
+def reverse_string(text):
     text_reverse = text[::-1]
-    text_reverse2 = text2[::-1]
-    print(text_reverse, text_reverse2)
+    text_split = text_reverse.split()
+    text_split1 = text_split[::-1]
+
+    print(" ".join(text_split1))
 
 
-reverse_string("Hello", "World")
-reverse_string("Python", "")
+reverse_string("Hello World")
+reverse_string("Python")

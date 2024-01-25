@@ -3,5 +3,5 @@ longs_arr = list(input("Введите длины полок через запя
 longs = [int(x) for x in longs_arr]
 
 a = [[longs[i], 0] for i in range(quantity)]
-print(quantity)
+print(a)
 

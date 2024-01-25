@@ -6,7 +6,7 @@ def func(lst):
     for i in range(len(lst)):
         a = [[lst[i][-1] * (i + 1)] * lst[i][-1] for i in range(len(lst))]
 
-    return print(a)
+    print(a)
 
 
 func(products_1)

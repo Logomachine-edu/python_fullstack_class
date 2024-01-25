@@ -3,17 +3,19 @@ cashe = ()
 
 def estimate_time(func) :
     def wrapper(*args, **kwargs):
-        func(*args, **kwargs)
+        global cashe
+        if args == cashe:
+            print(f"Вернули из кэша: Цена")
+        else:
+            cashe = args
+            print(f"Посчитали: Цена")
     return wrapper
 
 @estimate_time
 def access(*args):
-    global cashe
-    if args == cashe:
-        return print(f"Вернули из кэша: Цена")
-    else:
-        cashe = args
-        return print(f"Посчитали: Цена")
+    #some calculate
+    return "Цена"
+
     
     
 access(zakaz)

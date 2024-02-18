@@ -8,7 +8,7 @@ def authorization(authorization_data):
 
 @authorization
 def access_client_data(username, password):
-    return access_client_data
+    return authorization
     
 authorization_data = [    
     access_client_data('Роман', 'correctpassword'),

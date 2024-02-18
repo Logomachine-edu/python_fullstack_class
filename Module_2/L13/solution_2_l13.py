@@ -9,8 +9,8 @@ def create_design(function):
     return wrapper
  
 @create_design
-def create_design(design, stop):
-    time.sleep(stop)
+def create_design(design, delay):
+    time.sleep(delay)
     print(design)
  
 design = [

@@ -1,20 +1,24 @@
 def assessment(function):
-    def wrapper(input_info):
-        if len(input_info) == 2:
-            if isinstance(input_info[0], str) and isinstance(input_info[1], int):
-                print('Estimated time calculated successfully!')
-            elif not isinstance(input_info[0], str):
-                print('Ошибка: Первый аргумент не строка!')
-            elif not isinstance(input_info[1], int):
-                print('Ошибка: Второй аргумент не число!')
-        function()
+    def wrapper(name, tasks, *args, **kwargs):
+        if len(args) != 0 or len(kwargs) != 0:
+            print('Ошибка: Неправильное количество аргументов!')
+            
+        if isinstance(name, str) and isinstance(tasks, int):
+            print('Estimated time calculated successfully!')
+            
+        if not isinstance(name, str):
+            print('Ошибка: Первый аргумент не строка!')
+            
+        if not isinstance(tasks, int):
+            print('Ошибка: Второй аргумент не число!')
+        
+        function(name, tasks)
     return wrapper
 
 @assessment
-def estimate_time() -> None:
-    pass
+def estimate_time(name, tasks):
+    return assessment
     
-input_info = [
-    estimate_time(('Веб-сайт', 'пять')),    
-    estimate_time(('Визитка', 10))
-]
+
+estimate_time('Веб-сайт', 'пять')    
+estimate_time('Визитка', 10)

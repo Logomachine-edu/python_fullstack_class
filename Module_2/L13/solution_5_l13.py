@@ -7,8 +7,8 @@ def authorization(authorization_data):
     return wrapper
 
 @authorization
-def access_client_data(username, password):
-    return authorization
+def access_client_data() -> None:
+    pass
     
 authorization_data = [    
     access_client_data('Роман', 'correctpassword'),

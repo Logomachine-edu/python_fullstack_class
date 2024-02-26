@@ -6,4 +6,4 @@ print('Hello, dogs 4')
 print('Hello, dogs 5')
 
 # This code werks well 
-# Developer_2
+# Developer_2 autor

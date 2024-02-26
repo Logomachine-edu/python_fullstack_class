@@ -1,3 +1,3 @@
 # My first Python code 
-print('Hello, dogs!')
+print('Hello, cats!')
 # => Hello, World! 

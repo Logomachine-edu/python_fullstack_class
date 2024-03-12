@@ -1,0 +1,19 @@
+2024-03-12 14:20:02.884 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-12 14:20:03.180 [info] [Info  - 2:20:03 PM] (6273) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-12 14:20:03.181 [info] [Info  - 2:20:03 PM] (6273) Server root directory: file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-12 14:20:03.181 [info] [Info  - 2:20:03 PM] (6273) Starting service instance "volt"
+2024-03-12 14:20:03.210 [info] [Info  - 2:20:03 PM] (6273) Setting pythonPath for service "volt": "/bin/python3"
+2024-03-12 14:20:03.210 [info] [Info  - 2:20:03 PM] (6273) Setting environmentName for service "volt": "3.10.12 (global)"
+2024-03-12 14:20:03.224 [info] [Info  - 2:20:03 PM] (6273) Assuming Python version 3.10
+2024-03-12 14:20:03.259 [info] [Info  - 2:20:03 PM] (6273) Found 5 source files
+2024-03-12 14:20:03.503 [info] [Info  - 2:20:03 PM] (6273) Background analysis(1) root directory: file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-12 14:20:03.504 [info] [Info  - 2:20:03 PM] (6273) Background analysis(1) started
+2024-03-12 14:20:03.594 [info] [Info  - 2:20:03 PM] (6273) Indexer background runner(2) root directory: file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-12 14:20:03.594 [info] [Info  - 2:20:03 PM] (6273) Indexing(2) started
+2024-03-12 14:20:03.904 [info] [Info  - 2:20:03 PM] (6273) scanned(2) 39 files over 1 exec env
+2024-03-12 14:20:04.782 [info] [Info  - 2:20:04 PM] (6273) indexed(2) 17 files over 1 exec env
+2024-03-12 14:20:04.801 [info] [Info  - 2:20:04 PM] (6273) Indexing finished(2).
+2024-03-12 14:20:45.030 [info] [Info  - 2:20:45 PM] (6273) Found 6 source files
+2024-03-12 14:21:02.498 [info] [Info  - 2:21:02 PM] (6273) Found 5 source files
+2024-03-12 14:21:12.545 [info] [Info  - 2:21:12 PM] (6273) Found 6 source files
+2024-03-12 14:25:48.678 [info] [Info  - 2:25:48 PM] (6273) Found 7 source files

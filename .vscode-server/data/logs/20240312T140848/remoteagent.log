@@ -7,3 +7,26 @@
 2024-03-12 14:08:48.265 [info] [127.0.0.1][2149b987][ManagementConnection] New connection established.
 2024-03-12 14:08:48.507 [info] [127.0.0.1][45fbcde1][ExtensionHostConnection] New connection established.
 2024-03-12 14:08:48.514 [info] [127.0.0.1][45fbcde1][ExtensionHostConnection] <568> Launched Extension Host Process.
+2024-03-12 14:19:53.599 [info] Getting Manifest... ms-python.python
+2024-03-12 14:19:53.778 [info] Installing extension: ms-python.python
+2024-03-12 14:19:54.561 [info] Getting Manifest... ms-python.vscode-pylance
+2024-03-12 14:19:54.702 [info] Getting Manifest... ms-python.debugpy
+2024-03-12 14:19:54.841 [info] Installing extension: ms-python.vscode-pylance
+2024-03-12 14:19:54.841 [info] Installing extension: ms-python.debugpy
+2024-03-12 14:19:55.054 [info] Getting Manifest... ms-python.debugpy
+2024-03-12 14:19:55.167 [info] Extension is already requested to install ms-python.debugpy
+2024-03-12 14:19:57.446 [info] Extension signature is verified: ms-python.debugpy
+2024-03-12 14:19:57.449 [info] Extension signature is verified: ms-python.python
+2024-03-12 14:19:57.474 [info] Extension signature is verified: ms-python.vscode-pylance
+2024-03-12 14:19:58.181 [info] Extracted extension to file:///home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64: ms-python.debugpy
+2024-03-12 14:19:58.192 [info] Renamed to /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2024-03-12 14:19:58.195 [info] Extracting extension completed. ms-python.debugpy
+2024-03-12 14:19:59.901 [info] Extracted extension to file:///home/volt/.vscode-server/extensions/ms-python.python-2024.2.1: ms-python.python
+2024-03-12 14:19:59.936 [info] Renamed to /home/volt/.vscode-server/extensions/ms-python.python-2024.2.1
+2024-03-12 14:19:59.939 [info] Extracting extension completed. ms-python.python
+2024-03-12 14:20:01.344 [info] Extracted extension to file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3: ms-python.vscode-pylance
+2024-03-12 14:20:01.362 [info] Renamed to /home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3
+2024-03-12 14:20:01.364 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-03-12 14:20:01.370 [info] Extension installed successfully: ms-python.debugpy
+2024-03-12 14:20:01.370 [info] Extension installed successfully: ms-python.python
+2024-03-12 14:20:01.370 [info] Extension installed successfully: ms-python.vscode-pylance

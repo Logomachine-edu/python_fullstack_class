@@ -1,0 +1,44 @@
+2024-03-12 14:20:02.109 [info] Experiment 'pythonaacf' is active
+2024-03-12 14:20:02.109 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-12 14:20:02.109 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-12 14:20:02.109 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-12 14:20:02.109 [info] Experiment 'pythonTestAdapter' is active
+2024-03-12 14:20:02.109 [info] Default formatter is set to null for workspace /home/volt
+2024-03-12 14:20:02.109 [info] Test server listening.
+2024-03-12 14:20:02.109 [info] > conda info --json
+2024-03-12 14:20:02.109 [info] Found: /bin/python3 --> /bin/python3.10
+2024-03-12 14:20:02.109 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-03-12 14:20:02.117 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-03-12 14:20:02.117 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-03-12 14:20:02.119 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-12 14:20:02.119 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-12 14:20:02.119 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-12 14:20:02.119 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-12 14:20:02.119 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-12 14:20:02.202 [info] > /bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-12 14:20:02.215 [info] > /usr/bin/python3 -I ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-12 14:20:02.237 [info] Python interpreter path: /bin/python3
+2024-03-12 14:20:03.197 [info] Starting Pylance language server.
+2024-03-12 14:20:12.013 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 60415 -- /home/volt/python_fullstack_class/lesson_1/solution_1.py 
+2024-03-12 14:20:17.045 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 38565 -- /home/volt/python_fullstack_class/lesson_1/solution_1.py 
+2024-03-12 14:21:23.248 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_1.py
+2024-03-12 14:21:27.106 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 45695 -- /home/volt/python_fullstack_class/lesson_1/src/solution_1.py 
+2024-03-12 14:21:41.041 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 37007 -- /home/volt/python_fullstack_class/lesson_1/src/solution_1.py 
+2024-03-12 14:23:52.670 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_2.py
+2024-03-12 14:23:54.466 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 38863 -- /home/volt/python_fullstack_class/lesson_1/src/solution_2.py 
+2024-03-12 14:24:15.277 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52257 -- /home/volt/python_fullstack_class/lesson_1/src/solution_1.py 
+2024-03-12 14:24:22.150 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 54813 -- /home/volt/python_fullstack_class/lesson_1/src/solution_2.py 
+2024-03-12 14:25:13.219 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 34301 -- /home/volt/python_fullstack_class/lesson_1/src/solution_2.py 
+2024-03-12 14:25:13.312 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_2.py
+2024-03-12 14:27:35.569 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_3.py
+2024-03-12 14:27:38.062 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 44767 -- /home/volt/python_fullstack_class/lesson_1/src/solution_3.py 
+2024-03-12 14:28:09.590 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 55695 -- /home/volt/python_fullstack_class/lesson_1/src/solution_3.py 
+2024-03-12 14:28:09.658 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_3.py
+2024-03-12 14:29:49.404 [info] Send text to terminal:  cd /home/volt ; /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50355 -- /home/volt/python_fullstack_class/lesson_1/src/solution_2.py 
+2024-03-12 14:29:49.441 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_2.py
+2024-03-12 14:31:00.589 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_2.py
+2024-03-12 14:31:04.712 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 50225 -- /home/volt/python_fullstack_class/lesson_1/src/solution_2.py 
+2024-03-12 14:31:13.912 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 37623 -- /home/volt/python_fullstack_class/lesson_1/src/solution_2.py 
+2024-03-12 14:33:05.659 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_2.py
+2024-03-12 14:33:08.220 [info] Send text to terminal:  /usr/bin/env /bin/python3 /home/volt/.vscode-server/extensions/ms-python.debugpy-2024.2.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 37111 -- /home/volt/python_fullstack_class/lesson_1/src/solution_3.py 
+2024-03-12 14:33:48.957 [info] Discover tests for workspace name: volt - uri: /home/volt/python_fullstack_class/lesson_1/src/solution_3.py

@@ -1,0 +1,15 @@
+2024-03-12 15:08:20.127 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-12 15:08:20.517 [info] [Info  - 3:08:20 PM] (656) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-12 15:08:20.518 [info] [Info  - 3:08:20 PM] (656) Server root directory: file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-12 15:08:20.519 [info] [Info  - 3:08:20 PM] (656) Starting service instance "volt"
+2024-03-12 15:08:20.559 [info] [Info  - 3:08:20 PM] (656) Setting pythonPath for service "volt": "/bin/python3"
+2024-03-12 15:08:20.560 [info] [Info  - 3:08:20 PM] (656) Setting environmentName for service "volt": "3.10.12 (global)"
+2024-03-12 15:08:20.578 [info] [Info  - 3:08:20 PM] (656) Assuming Python version 3.10
+2024-03-12 15:08:20.622 [info] [Info  - 3:08:20 PM] (656) Found 7 source files
+2024-03-12 15:08:20.821 [info] [Info  - 3:08:20 PM] (656) Background analysis(1) root directory: file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-12 15:08:20.822 [info] [Info  - 3:08:20 PM] (656) Background analysis(1) started
+2024-03-12 15:08:20.967 [info] [Info  - 3:08:20 PM] (656) Indexer background runner(2) root directory: file:///home/volt/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-12 15:08:20.967 [info] [Info  - 3:08:20 PM] (656) Indexing(2) started
+2024-03-12 15:08:21.271 [info] [Info  - 3:08:21 PM] (656) scanned(2) 39 files over 1 exec env
+2024-03-12 15:08:21.637 [info] [Info  - 3:08:21 PM] (656) indexed(2) 17 files over 1 exec env
+2024-03-12 15:08:21.666 [info] [Info  - 3:08:21 PM] (656) Indexing finished(2).

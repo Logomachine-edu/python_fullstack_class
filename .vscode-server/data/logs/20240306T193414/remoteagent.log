@@ -1,0 +1,13 @@
+2024-03-06 19:34:14.719 [info] 
+
+
+
+
+2024-03-06 19:34:14.719 [info] Extension host agent started.
+2024-03-06 19:34:14.719 [info] Started initializing default profile extensions in extensions installation folder. file:///home/volt/.vscode-server/extensions
+2024-03-06 19:34:14.737 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/volt/.vscode-server/extensions
+2024-03-06 19:34:14.933 [info] [127.0.0.1][1c452a07][ManagementConnection] New connection established.
+2024-03-06 19:34:15.086 [info] [127.0.0.1][dbefea35][ExtensionHostConnection] New connection established.
+2024-03-06 19:34:15.092 [info] [127.0.0.1][dbefea35][ExtensionHostConnection] <603> Launched Extension Host Process.
+2024-03-06 22:25:12.092 [info] [127.0.0.1][1c452a07][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-06 22:25:12.176 [info] [127.0.0.1][dbefea35][ExtensionHostConnection] <603> Extension Host Process exited with code: 0, signal: null.

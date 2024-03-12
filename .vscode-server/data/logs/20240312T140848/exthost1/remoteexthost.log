@@ -1,0 +1,642 @@
+2024-03-12 14:08:48.997 [info] Extension host with pid 568 started
+2024-03-12 14:08:48.997 [error] Error: EEXIST: file already exists, open '/home/volt/.vscode-server/data/User/workspaceStorage/2190b9ffffb8e1ad4ac57db46be0e796/vscode.lock'
+2024-03-12 14:08:49.001 [info] Lock '/home/volt/.vscode-server/data/User/workspaceStorage/2190b9ffffb8e1ad4ac57db46be0e796/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-03-12 14:08:49.005 [info] Lock '/home/volt/.vscode-server/data/User/workspaceStorage/2190b9ffffb8e1ad4ac57db46be0e796/vscode.lock': The pid 1951 appears to be gone.
+2024-03-12 14:08:49.005 [info] Lock '/home/volt/.vscode-server/data/User/workspaceStorage/2190b9ffffb8e1ad4ac57db46be0e796/vscode.lock': Deleting a stale lock.
+2024-03-12 14:08:49.023 [info] Lock '/home/volt/.vscode-server/data/User/workspaceStorage/2190b9ffffb8e1ad4ac57db46be0e796/vscode.lock': Lock acquired.
+2024-03-12 14:08:49.036 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-12 14:08:49.211 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-12 14:08:49.271 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-12 14:08:49.272 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-12 14:08:49.422 [info] Eager extensions activated
+2024-03-12 14:08:49.422 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-12 14:08:49.422 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-12 14:08:49.670 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1198
+2024-03-12 14:08:49.727 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:08:52.130 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:08:57.154 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:05.110 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:10.133 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:15.157 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:20.181 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:25.204 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:32.272 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:37.298 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:42.325 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:47.347 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:52.369 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:09:57.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:02.416 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:07.438 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:12.459 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:17.485 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:22.507 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:27.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:32.550 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:38.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:44.195 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:49.218 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:54.241 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:10:59.261 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:04.284 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:09.306 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:14.327 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:19.351 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:25.746 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:30.771 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:35.793 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:40.819 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:45.843 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:50.866 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:11:55.890 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:12:04.149 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:12:09.170 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:12:14.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:12:24.469 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:07.442 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:12.464 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:17.487 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:22.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:24.723 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-03-12 14:13:27.528 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:32.551 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1199
+2024-03-12 14:13:37.598 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:13:42.620 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:13:47.647 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:13:52.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:02.497 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:07.524 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:12.549 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:17.571 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:22.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:27.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:32.649 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:15:55.636 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:16:00.661 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:16:05.690 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:16:10.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:16:15.740 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:16:20.764 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:16:25.787 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2024-03-12 14:19:45.201 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-03-12 14:20:01.501 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-03-12 14:20:01.501 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-03-12 14:20:01.816 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-03-12 14:20:02.809 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-12 14:20:07.302 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9650
+2024-03-12 14:20:12.120 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:20:16.314 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:17.146 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:20:23.296 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:28.392 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:33.493 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:38.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:43.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:48.805 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:53.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:20:59.021 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:21:04.125 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:21:09.235 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:21:14.346 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:21:19.462 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9672
+2024-03-12 14:21:24.582 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:21:27.211 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:21:33.308 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:21:38.414 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:21:41.143 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAError (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1876:15492)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:11905)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:21:41.143 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:21:43.512 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:21:48.614 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:21:53.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:21:58.818 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:03.922 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:09.030 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:14.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:19.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:24.354 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:29.464 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:34.577 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:39.686 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:44.814 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:49.917 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:22:57.674 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:02.773 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:07.879 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:12.986 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:18.094 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:23.199 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:28.308 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:33.417 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:38.540 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:43.650 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:48.768 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9674
+2024-03-12 14:23:53.868 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:23:58.966 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:02.951 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:24:04.064 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:09.166 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:14.264 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:15.375 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:24:19.378 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:24.482 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:30.182 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:35.294 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:35.945 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:24:40.415 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:45.526 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:50.638 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:24:55.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:25:01.512 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:25:06.622 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:25:11.724 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9676
+2024-03-12 14:25:19.503 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:24.606 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:26.455 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:25:29.707 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:34.818 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:39.926 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:45.033 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:50.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:25:55.268 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:00.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:05.495 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:10.610 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:15.727 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:20.835 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:25.935 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:31.041 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:36.148 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:41.252 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:46.361 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:51.470 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:26:56.575 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:01.687 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:09.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:14.129 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:19.244 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:24.363 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:29.479 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:34.588 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9677
+2024-03-12 14:27:38.167 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:27:41.281 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9680
+2024-03-12 14:27:46.389 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9680
+2024-03-12 14:27:51.491 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9680
+2024-03-12 14:27:56.598 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9680
+2024-03-12 14:28:01.704 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9680
+2024-03-12 14:28:06.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9680
+2024-03-12 14:28:09.719 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:28:11.928 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:28:17.047 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:28:22.163 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:29:30.508 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:29:35.615 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:29:40.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:29:45.817 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9681
+2024-03-12 14:29:50.918 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9682
+2024-03-12 14:29:56.019 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9682
+2024-03-12 14:30:01.116 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9682
+2024-03-12 14:30:45.602 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9682
+2024-03-12 14:30:50.712 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9682
+2024-03-12 14:30:55.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9682
+2024-03-12 14:31:03.163 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:08.269 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:13.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:18.486 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:23.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:28.699 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:33.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:38.923 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:44.035 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:49.151 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:54.262 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:31:59.380 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:04.518 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:09.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:16.305 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:21.407 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:26.517 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:31.618 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:36.728 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:41.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:46.954 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:52.067 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:32:57.177 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:33:02.305 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9683
+2024-03-12 14:33:08.310 [error] Error: Invalid debug adapter
+    at h.p (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:95)
+    at h.$acceptDAExit (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1877:35)
+    at g.S (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13967)
+    at g.Q (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:13733)
+    at g.M (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12826)
+    at g.L (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:12044)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:1609:10692)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at r.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:14439)
+    at d.z (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:17504)
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:15956)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at l.acceptChunk (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:12213)
+    at vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:624:11500
+    at l.value (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:4915)
+    at o.y (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:1902)
+    at o.fire (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2119)
+    at j.onload (vscode-file://vscode-app/c:/Users/mrdjs/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/workbench/workbench.desktop.main.js:684:3306)
+2024-03-12 14:33:13.024 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:33:18.144 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:33:47.596 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:33:52.702 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:33:57.801 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:34:02.906 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:34:08.007 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9686
+2024-03-12 14:34:13.107 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9686
+2024-03-12 14:34:18.211 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9686
+2024-03-12 14:34:24.970 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9686
+2024-03-12 14:34:30.137 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:34:35.310 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:34:40.386 [warning] [Decorations] CAPPING events from decorations provider vscode.git 9685
+2024-03-12 14:55:06.449 [info] Extension host terminating: received terminate message from renderer
+2024-03-12 14:55:06.450 [info] Lock '/home/volt/.vscode-server/data/User/workspaceStorage/2190b9ffffb8e1ad4ac57db46be0e796/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-12 14:55:06.484 [error] Canceled: Canceled
+	at new $ (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:943479)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:962791)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:7996)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:14091)
+	at u.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:17156)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:15608)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at p.acceptChunk (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11865)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11152)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at n.acceptFrame (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-03-12 14:55:06.485 [error] Canceled: Canceled
+	at new $ (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at p.O [as value] (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:943479)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:962791)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:7996)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:14091)
+	at u.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:17156)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:15608)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at p.acceptChunk (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11865)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11152)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at n.acceptFrame (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-03-12 14:55:06.485 [error] Canceled: Canceled
+	at new $ (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
+	at s.U (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
+	at z.<computed>.T.charCodeAt.z.<computed> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
+	at u.g (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184300)
+	at u.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at f.registerCommand.description (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183062)
+	at u.h (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:184839)
+	at u.g (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183831)
+	at u.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:150:183738)
+	at Object.executeCommand (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:21654)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/github/dist/extension.js:2:325214)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/github/dist/extension.js:2:326173
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:1050811)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:962791)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968825
+	at Array.forEach (<anonymous>)
+	at f.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:968811)
+	at l.<anonymous> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3704)
+	at l.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at l.<anonymous> (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/extensions/git/dist/main.js:2:945736)
+	at l.dispose (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:148:3801)
+	at o (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at p.cb (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:9882)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7816
+	at Array.map (<anonymous>)
+	at p.Y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:7803)
+	at p.terminate (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:156:8076)
+	at o.terminate (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:9949)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:173:7996)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:14091)
+	at u.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:17156)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:15608)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at p.acceptChunk (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11865)
+	at p.value (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:105:11152)
+	at n.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at n.acceptFrame (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/volt/.vscode-server/bin/1e790d77f81672c49be070e04474901747115651/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-03-12 14:55:06.489 [info] Extension host with pid 568 exiting with code 0

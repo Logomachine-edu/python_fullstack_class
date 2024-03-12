@@ -49,3 +49,29 @@ git commit -m "Volt"
 git push --set-upstream origin main
 git push --set-upstream origin master
 git clone git@github.com:VoltTheHusky/python_fullstack_class.git
+git add
+git add -all
+git add --all
+git init
+git add --all
+git commit -m "Создание папок"
+сдуфк
+clear
+git log
+git add -all
+git add --all
+git commit -m "Выполнение 1го урока"
+git remote add git@github.com:VoltTheHusky/python_fullstack_class.git
+git remote add origin git@github.com:VoltTheHusky/python_fullstack_class.git
+git pull origin
+git rebase origin/main
+git commit --all 
+git commit --all "Выполнение Урока 1"
+git rebase origin/main
+git commit -m "Выполнение Урока 1"
+git add /home/volt/python_fullstack_class/lesson_1/src/solution_1.py
+git add solution_1.py
+git add /home/volt/python_fullstack_class/module_2/lesson_1/src/solution_1.py
+git add /home/volt/python_fullstack_class
+git commit -m "Создание папок + модуль 2"
+git push

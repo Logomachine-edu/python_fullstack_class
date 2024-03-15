@@ -1,9 +1,12 @@
+import statistics
+
+
 def collect_data(data):
     return process_data(data)
 
 
 def process_data(data):
-    average = sum(data) / len(data)
+    average = statistics.mean(data)
     return summarize_data(average)
 
 

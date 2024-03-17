@@ -1,3 +1,3 @@
 # Мой первый код на Phyton
-print('Hello, world!')
+print('Hello, dogs!')
 # => Hello, World!

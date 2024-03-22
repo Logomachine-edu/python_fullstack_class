@@ -7,7 +7,7 @@ def package_order(data: dict):
 
 
 def send_order(check_order_, package_order_, data):
-    return package_order_(data) if check_order_(data) else f'Отправка: Заказ {data['id']} пуст'
+    return package_order_(data) if check_order_(data) else f'Отправка: Заказ {data["id"]} пуст'
 
 
 order1 = {'id': 1, 'items': ['book', 'pen']}

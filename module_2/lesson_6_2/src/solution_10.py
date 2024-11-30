@@ -1,0 +1,5 @@
+list_of_prices = input('Введите цены: ').split(',')
+number_of_products = len(list_of_prices)
+list_of_prices = map(int, list_of_prices)
+summa = sum(list_of_prices) // int(number_of_products)
+print(f'Средняя цена товара: {summa}')

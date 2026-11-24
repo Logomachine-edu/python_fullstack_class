@@ -1,0 +1,5 @@
+num_one: int = int(input())
+num_two: int = int(input())
+num_three: int = int(input())
+average: float = round (((num_one + num_two + num_three) / 3), 1)
+print(average)
